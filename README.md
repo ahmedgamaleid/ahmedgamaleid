@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgamaleid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgamaleid" /> </p>
 
-- 🌱 I’m currently learning **frontend react-js**
+- 🌱 I’m currently  **frontend react-js dev**
 
 - 📫 How to reach me **eiid.ahmed4444@gmail.com**
 
